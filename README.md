@@ -1,4 +1,4 @@
-# MusicPlayer2 for Android Wear
+# ImageViewer for Android Wear
 
 
 https://play.google.com/store/apps/details?id=jp.flatlib.flatlib3.imageviewerw
